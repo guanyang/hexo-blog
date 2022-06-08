@@ -102,3 +102,19 @@ dist
 
 # TernJS port file
 .tern-port
+
+.DS_Store
+Thumbs.db
+package-lock.json
+db.json
+public/
+.deploy*/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### VS Code ###
+.vscode/
